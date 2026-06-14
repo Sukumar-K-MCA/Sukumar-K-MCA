@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Sukumar+K;MCA+Student;AI+%26+Machine+Learning+Enthusiast;Cybersecurity+Learner;Full+Stack+Developer;Aspiring+Software+Engineer" />
+</p>
+
 # Hi 👋 I'm Sukumar
 
 🎓 MCA Student
