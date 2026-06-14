@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Sukumar+K;MCA+Student;AI+%26+Machine+Learning+Enthusiast;Cybersecurity+Learner;Full+Stack+Developer;Aspiring+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Sukumar+K;MCA+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Aspiring+Software+Engineer" />
 </p>
 
 # Hi 👋 I'm Sukumar
@@ -23,7 +23,26 @@
 - Preparing for GATE CS and Technical Careers
 
 ---
+## 🎓 Education
 
+### Master of Computer Applications (2025–2027)
+
+New Horizon College of Engineering, Bengaluru
+
+CGPA: 8.25 (Pursuing)
+
+### Bachelor of Computer Applications (2022–2025)
+
+Sahyadri Degree College, Kolar
+
+CGPA: 9.1
+
+---
+## 👀 Profile Visitors
+
+![](https://komarev.com/ghpvc/?username=Sukumar-K-MCA&color=blue&style=for-the-badge)
+
+---
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,git,github,vscode,linux" />
 </p>
@@ -49,7 +68,13 @@ MySQL
 Git • GitHub • VS Code • Linux 
 
 ---
+## 🔥 GitHub Streak
 
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sukumar-K-MCA&theme=tokyonight&hide_border=true"/>
+
+</p>
 ## 🚀 Featured Projects
 
 ### 🏏 Live Cricket Auction System
@@ -147,5 +172,9 @@ https://sukumar-k-mca.github.io/7up-7-7down-game/
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukumar-K-MCA&layout=compact&theme=tokyonight)
 
 ---
+<h3 align="center">
 
+💡 Building AI-Powered Solutions | Learning Cybersecurity | Growing as a Software Engineer
+
+</h3>
 ⭐ Always learning and building.
