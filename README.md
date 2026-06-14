@@ -24,7 +24,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,git,github,vscode,linux" />
+</p>
 
 ### Languages
 
@@ -120,6 +122,23 @@ https://sukumar-k-mca.github.io/7up-7-7down-game/
 - GATE CS Preparation
 
 ---
+
+## 📜 Certifications
+
+- Cisco Networking Academy – Introduction to Modern AI
+- Cisco Networking Academy – Networking Devices and Initial Configuration
+- NPTEL SWAYAM – Entrepreneurship Essentials
+- Python Programming From Scratch
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sukumar-k-mca/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sukumar-K-MCA)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sukumar.k.mca@gmail.com)
 
 ## 📊 GitHub Stats
 
