@@ -3,182 +3,204 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Sukumar+K;MCA+Student;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Aspiring+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=900&lines=Sukumar+K;MCA+Student;Full+Stack+Developer;Software+Testing+Enthusiast;Aspiring+Software+Engineer" />
 </p>
 
 # Hi 👋 I'm Sukumar
 
-🎓 MCA Student
-
-🤖 AI & Machine Learning Enthusiast
-
-💻 Full Stack Developer
-
-🚀 Aspiring Software Engineer
+🎓 MCA Student  
+💻 Full Stack Developer  
+🧪 Software Testing & QA Enthusiast  
+🚀 Aspiring Software Engineer  
 
 ---
 
 ## 👨‍💻 About Me
 
-- MCA Student (Graduating 2027)
-- Interested in AI, Machine Learning, and Cybersecurity
-- Building Full Stack Applications
-- Learning Data Structures & Algorithms
-- Preparing for GATE CS and Technical Careers
+- MCA Student at New Horizon College of Engineering, Bengaluru
+- Building full-stack web applications using Java, Python, PHP, JavaScript, and MySQL
+- Hands-on experience in website testing and quality assurance
+- Interested in software development, web technologies, and testing
+- Currently strengthening Data Structures, Object-Oriented Programming, DBMS, Operating Systems, and Computer Networks
 
 ---
+
 ## 🎓 Education
 
 ### Master of Computer Applications (2025–2027)
 
-New Horizon College of Engineering, Bengaluru
+**New Horizon College of Engineering, Bengaluru**
 
-CGPA: 8.25 (Pursuing)
+CGPA: **8.34** (Pursuing)
 
 ### Bachelor of Computer Applications (2022–2025)
 
-Sahyadri Degree College, Kolar
+**Sahyadri Degree College, Kolar**
 
-CGPA: 9.1
-
----
-## 👀 Profile Visitors
-
-![](https://komarev.com/ghpvc/?username=Sukumar-K-MCA&color=blue&style=for-the-badge)
+CGPA: **9.1**
 
 ---
+
+## 🛠️ Technical Skills
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,php,mysql,git,github" />
 </p>
 
-### Languages
+### Programming
 
-Python • Java • C • JavaScript • SQL
+Java • Python • C • SQL
 
-### Frontend
+### Web Technologies
 
-HTML • CSS • JavaScript 
+HTML • CSS • JavaScript • PHP
 
 ### Backend
 
-PHP • Django
+Java Servlets • JDBC • LAMP Stack
 
 ### Database
 
 MySQL
 
+### Core Computer Science
+
+Data Structures • Object-Oriented Programming • DBMS • Operating Systems • Computer Networks
+
+### Testing
+
+Functional Testing • UI/UX Testing • Usability Testing • Bug Reporting
+
 ### Tools
 
-Git • GitHub • VS Code • Linux 
+Git • GitHub • Eclipse • Apache Tomcat • MySQL Workbench • Power BI • Excel
 
 ---
-## 🔥 GitHub Streak
 
-<p align="center">
+## 💼 Practical Experience
 
-<img src="https://streak-stats.demolab.com?user=Sukumar-K-MCA&theme=tokyonight&hide_border=true"/>
+### 🧪 Website Testing & Quality Assurance
 
-</p>
+**Ziko Home Realty Pvt. Ltd. — May 2026**
+
+- Performed functional, UI/UX, and usability testing of a real-estate platform during its pre-launch phase.
+- Identified and reported bugs and technical issues and validated website features.
+- Provided feedback on usability, functionality, performance, and platform quality.
+
+### 💻 LAMP Stack Internship
+
+**Hysteresis Pvt. Ltd. — Jan 2025 – Mar 2025**
+
+- Completed hands-on training in LAMP stack development using Linux, Apache, MySQL, and PHP.
+- Built and tested PHP/MySQL-based web functionality.
+- Applied PHP and MySQL skills directly in the Live Cricket Auction System project.
+
+---
+
 ## 🚀 Featured Projects
+
+### 🌱 Smart Agriculture Platform
+
+**Tech Stack:** Java Servlets, JSP, JDBC, MySQL, HTML, CSS, JavaScript, Apache Tomcat
+
+A full-stack smart agriculture platform developed as an MCA Semester II mini project.
+
+#### Features
+
+- Real-time weather insights using Weather API
+- Geolocation-based weather information
+- Rule-based crop recommendations
+- Profitability scoring
+- User authentication
+- Weather and crop data management
+- Yield prediction module
+- MySQL database integration
+- DFD and ER diagram-based system design
+
+---
 
 ### 🏏 Live Cricket Auction System
 
-**Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript
+**Tech Stack:** HTML, CSS, JavaScript, PHP, MySQL
 
 A real-time cricket auction platform developed for managing player auctions and live bidding.
 
 #### Features
 
 - Real-time player bidding
-- Team management system
-- Dynamic user interface
+- Team management
+- Player management
+- Auction workflow management
+- Responsive user interface
+- Front-end and back-end integration
 - Online deployment
-- Responsive design
 
-🌐 Live Demo:
-
+🌐 **Live Demo:**  
 https://ycc-tournament-sukumar-k.kesug.com/
 
 ---
 
 ### 👕 AI-Powered Clothes Recommendation & Shopping System
 
-**Tech Stack:** PHP, MySQL, JavaScript, HTML, CSS
+**Tech Stack:** Python, HTML, CSS, JavaScript
 
-An intelligent clothing recommendation platform that suggests outfits based on user preferences and shopping behavior.
+An AI-based clothing recommendation system that suggests clothing based on user preferences with an integrated shopping cart and web interface.
 
 #### Features
 
 - Personalized clothing recommendations
-- User preference analysis
+- User preference-based suggestions
 - Shopping cart functionality
-- Admin dashboard
-- Product management system
+- Product management
+- Interactive web interface
 
-🌐 Live Demo:
-
+🌐 **Project Repository:**  
 https://sukumar-k-mca.github.io/FitFusionAI/
-
----
-
-### 🎲 7 Up 7 Down Game
-
-**Tech Stack:** HTML, CSS, JavaScript
-
-A dice-based casino game where players predict whether the sum of two dice will be above, below, or equal to seven.
-
-#### Features
-
-- Interactive gameplay
-- Dice animation
-- Score tracking
-- Responsive design
-
-🌐 Live Demo:
-
-https://sukumar-k-mca.github.io/7up-7-7down-game/
-
----
-
----
-
-## 📚 Currently Learning
-
-- Machine Learning
-- Cybersecurity
-- React Development
-- Data Structures & Algorithms
-- GATE CS Preparation
 
 ---
 
 ## 📜 Certifications
 
-- Cisco Networking Academy – Introduction to Modern AI
-- Cisco Networking Academy – Networking Devices and Initial Configuration
-- NPTEL SWAYAM – Entrepreneurship Essentials
-- Python Programming From Scratch
+- **LAMP Stack Internship Certification** — Hysteresis Pvt. Ltd. (PHP & MySQL)
+- **Introduction to Modern AI** — Cisco Networking Academy
+- **Networking Devices and Initial Configuration** — Cisco Networking Academy
+- **Entrepreneurship Essentials** — NPTEL SWAYAM
+- **Python Programming From Scratch** — Dhaaps
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sukumar-K-MCA&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sukumar-k-mca/)
+<p align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sukumar-K-MCA)
+<a href="https://www.linkedin.com/in/sukumar-k-mca/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:sukumar.k.mca@gmail.com)
+<a href="https://github.com/Sukumar-K-MCA">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
 
-## 📊 GitHub Stats
+<a href="mailto:sukumar.k.mca@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sukumar-K-MCA&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukumar-K-MCA&layout=compact&theme=tokyonight)
+</p>
 
 ---
-<h3 align="center">
 
-💡 Building AI-Powered Solutions | Learning Cybersecurity | Growing as a Software Engineer
+<p align="center">
+  💡 Building Web Applications | Learning & Growing | Aspiring Software Engineer
+</p>
 
-</h3>
-⭐ Always learning and building.
+<p align="center">
+  ⭐ Always learning. Always building.
+</p>
